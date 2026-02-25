@@ -130,3 +130,19 @@ python merger.py
 ## 📜 License
 
 MIT License
+
+## Bonus
+
+Included is another function to watermark the merged pdf file
+
+Watermarking shines when you need automation, scale, or personalization.
+
+### ✅ When to Use Python for Watermarking
+
+Use Python if:
+- You process large numbers of PDFs
+- Watermarks change dynamically
+- You require automation
+- You need consistent, repeatable workflows
+
+For one-off manual edits, traditional PDF tools may be sufficient.
